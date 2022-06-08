@@ -1,4 +1,4 @@
-# Basic Spring Data JPA application
+# Basic Spring Config Client application
 
 This project demonstrates the use of the Spring Configuration Server client.
 
